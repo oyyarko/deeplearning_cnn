@@ -1,2 +1,4 @@
 # deeplearning_cnn
-To classify dog Breed
+This is the practive session done from Udacity Deep Learning Nanodegree course.
+
+In this CNN model we are identifying the Dog Breed.
